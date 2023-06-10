@@ -2,5 +2,5 @@
 
 ## Important links
 
-💻 All of my projects are available in [my portfolio]()
-📧 How to reach me [Click here]()
+💻 All of my projects are available in [my portfolio]()\n
+📧 How to reach me [Click here]()\n
