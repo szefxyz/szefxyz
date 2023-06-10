@@ -9,7 +9,7 @@
 ## Important links
 
 - 🌐 My website: **in progress**
-- 🌐 My E-mail: **blaszczyk.business@gmail.com**
+- 🌐 E-mail: **blaszczyk.business@gmail.com**
 
 ## My Skills
 
