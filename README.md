@@ -13,4 +13,4 @@
 
 ## My Skills
 
-![My Skills](https://skillicons.dev/icons?i=github,scss,css,html,js,figma)
+![My Skills](https://skillicons.dev/icons?i=github,css,html,js,figma)
