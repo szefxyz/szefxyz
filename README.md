@@ -3,7 +3,7 @@
 ## About Me
 
 - I am a **Frontend Developer** and a beginner **UI/UX Designer**.
-- I am **17** years old.
+- I am **18** years old.
 - Coding for: 1+ year.
 
 ## Important links
