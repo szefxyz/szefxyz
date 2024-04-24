@@ -2,15 +2,16 @@
 
 ## About Me
 
-- I am a **Frontend Developer** and a beginner **UI/UX Designer**.
 - I am **18** years old.
 - Coding for: 1+ year.
+- I'm ready to explore new technologies and gain experience in IT, especially in **web development**. 
+- *Currently finishing high school.*
 
 ## Important links
 
-- 🌐 My website: **in progress**
+- 🌐 Website: **in progress**
 - 🌐 E-mail: **jakub.blaszczyk02@gmail.com**
 
 ## My Skills
 
-![My Skills](https://skillicons.dev/icons?i=github,css,html,react,js,figma)
+![My Skills](https://skillicons.dev/icons?i=github,css,html,react,js)
