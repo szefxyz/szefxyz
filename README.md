@@ -12,6 +12,11 @@
 - 🌐 Website: **in progress**
 - 🌐 E-mail: **jakub.blaszczyk02@gmail.com**
 
+## Personal Projects
+
+### [Tournaments App](https://github.com/ReptilianEye/TournamentsApp)
+This is a web application built with the **Flask** framework and written in **Python**. It aims to help users organize and participate in tournaments. I developed this application as one of my first projects to streamline the organization of chess tournaments at my school.
+
 ## My Skills
 
 ![My Skills](https://skillicons.dev/icons?i=github,css,html,react,js)
