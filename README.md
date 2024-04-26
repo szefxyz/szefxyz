@@ -4,7 +4,8 @@
 
 - I am **18** years old.
 - Coding for: 1+ year.
-- I'm ready to explore new technologies and gain experience in IT, especially in **web development**. 
+- I'm ready to explore new technologies and gain experience in IT, especially in **web development**.
+- Additionally, I am interested in **photography** and **drone filming**, and I also work on video editing.
 
 ## Important links
 
