@@ -5,7 +5,6 @@
 - I am **18** years old.
 - Coding for: 1+ year.
 - I'm ready to explore new technologies and gain experience in IT, especially in **web development**. 
-- *Currently finishing high school.*
 
 ## Important links
 
