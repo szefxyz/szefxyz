@@ -7,7 +7,7 @@
 
 ## My Skills
 
-![My Skills](https://skillicons.dev/icons?i=github,css,html,react,js)
+![My Skills](https://skillicons.dev/icons?i=react,html,css,js,github)
 
 ## Projects
 
