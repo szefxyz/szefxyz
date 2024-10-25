@@ -5,7 +5,7 @@ My journey with **frontend development** began over 2 years ago. This experience
 
 ## My Skills
 
-![My Skills](https://skillicons.dev/icons?i=react,html,css,js,github)
+![My Skills](https://skillicons.dev/icons?i=react,html,css,js,github,figma)
 
 ## Projects
 
