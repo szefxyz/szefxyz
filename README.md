@@ -1,5 +1,7 @@
 <img alt="Hello I'm Jakub" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=5000&color=bb5058&center=false&vCenter=true&width=435&lines=Hello, I'm Jakub!">
 
+![Frontend developer](./banner-github.png)
+
 ## About Me
 My journey with **frontend development** began over 2 years ago. This experience has given me a solid foundation in creating websites, which now helps me design pages and interfaces to be as user-friendly as possible. In addition to my work in design, I have a strong interest in **photography** and **drone filming**.
 
