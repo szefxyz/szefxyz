@@ -17,3 +17,4 @@ This is a simple To-Do List application with features like adding new tasks and 
 
 ## Contact
 - Email: jakub.blaszczyk02@gmail.com
+- Figma: figma.com/@blaszczyk
