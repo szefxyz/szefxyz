@@ -3,12 +3,16 @@
 ## 📌 About Me
 My journey with **frontend development** began over 2 years ago. This experience has given me a solid foundation in creating websites, which now helps me design pages and interfaces to be as user-friendly as possible. In addition to my work in design, I have a strong interest in **photography** and **drone filming**.
 
+**Fun Facts**: 
+- I'm a fan of minimalist interfaces — the simpler, the better.
+- Flying drones and capturing aerial shots is my favorite way to unplug.
+
 ## 🎯 Tech Stack & Tools
 
-![My Skills](https://skillicons.dev/icons?i=figma,react,html,css,js,github)
+![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,github)
 
-- **React**: Building interactive, component-based user interfaces.
 - **HTML, CSS & JavaScript**: My foundational trio for crafting responsive and user-friendly websites.
+- **React**: Currently diving deeper into React to create dynamic, modern user interfaces.
 - **Figma**: Designing clean, user-centric interfaces and prototypes.
 - **Git & GitHub**: Ensuring seamless version control and collaboration.
 
