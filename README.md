@@ -1,29 +1,18 @@
-<img alt="Hello I'm Jakub" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=5000&color=bb5058&center=false&vCenter=true&width=435&lines=Hello, I'm Jakub!">
-
-## 📌 About Me
-My journey with **frontend development** began over 2 years ago. This experience has given me a solid foundation in creating websites, which now helps me design pages and interfaces to be as user-friendly as possible. In addition to my work in design, I have a strong interest in **photography** and **drone filming**.
-
-**Fun Facts**: 
-- I'm a fan of minimalist interfaces — the simpler, the better.
-- Flying drones and capturing aerial shots is my favorite way to unplug.
-
-## 🎯 Tech Stack & Tools
-
-![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,github)
-
-- **HTML, CSS & JavaScript**: My foundational trio for crafting responsive and user-friendly websites.
-- **React**: Currently diving deeper into React to create dynamic, modern user interfaces.
-- **Figma**: Designing clean, user-centric interfaces and prototypes.
-- **Git & GitHub**: Ensuring seamless version control and collaboration.
+## 🎲 Fun Facts: 
+- Jestem zwolennikiem minimalistycznych interfejsów - im prościej, tym lepiej.
+- Latanie dronem i robienie ujęć z powietrza to mój ulubiony sposób na oderwanie się od rzeczywistości.
 
 ## 🚀 Projects
 
 ### [Tournaments App](https://github.com/szefxyz/TournamentsApp)
-This is a web application built with the **Flask** framework and written in **Python**. It aims to help users organize and participate in tournaments. I developed this application as one of my first projects to streamline the organization of chess tournaments at my school.
+To internetowa aplikacja stworzona w oparciu o framework Flask w języku Python. Jej głównym celem jest ułatwienie organizacji oraz uczestnictwa w turniejach. Projekt powstał jako jedno z moich pierwszych narzędzi wspierających organizację szkolnych turniejów szachowych.
 
 ### [Todo App](https://github.com/szefxyz/todo-app)
-This is a simple To-Do List application with features like adding new tasks and deleting tasks. It provides a user-friendly interface to manage your daily tasks efficiently.
+To prosta aplikacja do zarządzania listą zadań, umożliwiająca dodawanie oraz usuwanie wpisów. Posiada intuicyjny, przyjazny dla użytkownika interfejs, który wspiera efektywne planowanie i organizację codziennych obowiązków.
 
-## 📬 Let's Connect!
+## 🛠 Tools
+![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,react,github)
+
+## ✉️ Contact
 - 📧 Email: jakub.blaszczyk02@gmail.com
 - 🎨 Figma: https://www.figma.com/@blaszczyk
