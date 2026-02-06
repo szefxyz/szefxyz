@@ -4,6 +4,9 @@
 
 ## 🚀 Projects
 
+### [Smart Finance Manager](https://github.com/szefxyz/SmartFinanceManager)
+Aplikacja umożliwia zarządzanie finansami poprzez dodawanie, edytowanie oraz usuwanie transakcji, a także przypisywanie ich do odpowiednich kategorii. Czytelny dashboard prezentuje podsumowanie przychodów i wydatków, co pozwala użytkownikowi na szybki wgląd w aktualny stan budżetu. Intuicyjny i przyjazny interfejs wspiera efektywne planowanie finansów oraz kontrolę nad codziennymi wydatkami.
+
 ### [Tournaments App](https://github.com/szefxyz/TournamentsApp)
 To internetowa aplikacja stworzona w oparciu o framework Flask w języku Python. Jej głównym celem jest ułatwienie organizacji oraz uczestnictwa w turniejach. Projekt powstał jako jedno z moich pierwszych narzędzi wspierających organizację szkolnych turniejów szachowych.
 
