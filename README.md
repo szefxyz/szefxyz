@@ -4,6 +4,9 @@
 
 ## 🚀 Projects
 
+### 🌟 [Strona Fundacji Silversi](https://github.com/szefxyz/silversi-page)
+Projekt zrealizowany w ramach praktyk studenckich. Nowoczesny serwis internetowy stworzony w oparciu o system WordPress z wykorzystaniem niestandardowych modyfikacji CSS. Witryna została w pełni dostosowana do standardów dostępności cyfrowej, co zapewnia wygodne i intuicyjne użytkowanie osobom z niepełnosprawnościami.
+
 ### [Smart Finance Manager](https://github.com/szefxyz/SmartFinanceManager)
 Aplikacja umożliwia zarządzanie finansami poprzez dodawanie, edytowanie oraz usuwanie transakcji, a także przypisywanie ich do odpowiednich kategorii. Czytelny dashboard prezentuje podsumowanie przychodów i wydatków, co pozwala użytkownikowi na szybki wgląd w aktualny stan budżetu. Intuicyjny i przyjazny interfejs wspiera efektywne planowanie finansów oraz kontrolę nad codziennymi wydatkami.
 
