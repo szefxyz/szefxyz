@@ -5,20 +5,19 @@
 ## 🚀 Projects
 
 ### 🌟 [Strona Fundacji Silversi](https://silversi.org.pl/)
-Projekt zrealizowany w ramach praktyk studenckich. Nowoczesny serwis internetowy stworzony w oparciu o system WordPress z wykorzystaniem niestandardowych modyfikacji CSS. Witryna została w pełni dostosowana do standardów dostępności cyfrowej, co zapewnia wygodne i intuicyjne użytkowanie osobom z niepełnosprawnościami.
+Strona stworzona w ramach praktyk studenckich, zaprojektowana z pełnym naciskiem na dostępność cyfrową. Zapewnia intuicyjną obsługę i czytelność dla każdego użytkownika, zgodnie z nowoczesnymi standardami WCAG. Stale dbam o jej rozwój i poprawne działanie, regularnie wdrażając aktualizacje.
 
 ### 💵 [Smart Finance Manager](https://github.com/szefxyz/SmartFinanceManager)
-Aplikacja umożliwia zarządzanie finansami poprzez dodawanie, edytowanie oraz usuwanie transakcji, a także przypisywanie ich do odpowiednich kategorii. Czytelny dashboard prezentuje podsumowanie przychodów i wydatków, co pozwala użytkownikowi na szybki wgląd w aktualny stan budżetu. Intuicyjny i przyjazny interfejs wspiera efektywne planowanie finansów oraz kontrolę nad codziennymi wydatkami.
+Narzędzie do pełnej kontroli nad domowym budżetem. Umożliwia sprawne zarządzanie transakcjami, kategoryzację wydatków oraz szybki podgląd stanu finansów dzięki czytelnemu dashboardowi.
 
 ### 🧮 [Tournaments App](https://github.com/szefxyz/TournamentsApp)
-To internetowa aplikacja stworzona w oparciu o framework Flask w języku Python. Jej głównym celem jest ułatwienie organizacji oraz uczestnictwa w turniejach. Projekt powstał jako jedno z moich pierwszych narzędzi wspierających organizację szkolnych turniejów szachowych.
+Aplikacja webowa oparta na frameworku Flask, ułatwiająca organizację turniejów i zapisy zawodników. To mój pierwszy projekt strony internetowej, który narodził się z potrzeby sprawnego zarządzania szkolnymi zawodami szachowymi.
 
 ### 📋 [Todo App](https://github.com/szefxyz/todo-app)
-To prosta aplikacja do zarządzania listą zadań, umożliwiająca dodawanie oraz usuwanie wpisów. Posiada intuicyjny, przyjazny dla użytkownika interfejs, który wspiera efektywne planowanie i organizację codziennych obowiązków.
+Lekka i przejrzysta aplikacja do zarządzania codziennymi zadaniami. Skupia się na tym, co najważniejsze: szybkim dodawaniu i usuwaniu wpisów, pomagając w codziennej organizacji pracy.
 
 ## 🛠 Tools
 ![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,react,wordpress,github)
 
 ## ✉️ Contact
 - 📧 Email: jakub.blaszczyk02@gmail.com
-- 🎨 Figma: https://www.figma.com/@blaszczyk
