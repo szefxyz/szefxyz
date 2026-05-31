@@ -17,7 +17,7 @@ To internetowa aplikacja stworzona w oparciu o framework Flask w języku Python.
 To prosta aplikacja do zarządzania listą zadań, umożliwiająca dodawanie oraz usuwanie wpisów. Posiada intuicyjny, przyjazny dla użytkownika interfejs, który wspiera efektywne planowanie i organizację codziennych obowiązków.
 
 ## 🛠 Tools
-![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,react,github)
+![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,react,wordpress,github)
 
 ## ✉️ Contact
 - 📧 Email: jakub.blaszczyk02@gmail.com
