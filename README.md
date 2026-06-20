@@ -7,6 +7,9 @@
 ### 🌟 [Strona Fundacji Silversi](https://silversi.org.pl/)
 Strona stworzona w ramach praktyk studenckich, zaprojektowana z pełnym naciskiem na dostępność cyfrową. Zapewnia intuicyjną obsługę i czytelność dla każdego użytkownika, zgodnie z nowoczesnymi standardami WCAG. Stale dbam o jej rozwój i poprawne działanie, regularnie wdrażając aktualizacje.
 
+### 🤍 [CSSCube - Rozszerzenie google](https://chromewebstore.google.com/detail/csscube-%E2%80%93-developer-tools/ejmmajmffdpfbabcjelaphflokahgocl?hl=pl&utm_source=ext_sidebar)
+Autorskie rozszerzenie przeglądarki z zestawem narzędzi dla front-end developerów, zintegrowane bezpośrednio z paskiem bocznym. Pozwala na błyskawiczną konwersję kolorów, generowanie cieni, weryfikację dostępności (WCAG) i wiele więcej, bez wychodzenia z aktualnej karty.
+
 ### 💵 [Smart Finance Manager](https://github.com/szefxyz/SmartFinanceManager)
 Narzędzie do pełnej kontroli nad domowym budżetem. Umożliwia sprawne zarządzanie transakcjami, kategoryzację wydatków oraz szybki podgląd stanu finansów dzięki czytelnemu dashboardowi.
 
